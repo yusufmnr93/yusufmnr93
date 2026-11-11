@@ -37,9 +37,9 @@
 
 ## 📫 Mari terhubung
 
-- 💼 LinkedIn: [isi linkmu]
-- ✉️ Email: [isi emailmu]
-- 🌐 Portofolio: [isi kalau ada]
+- 💼 LinkedIn: https://www.linkedin.com/in/yusuf-maulana-nur-rasidi-407b992aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
+- ✉️ Email: yusufmaulanaoke0903@gmail.com
+- 🌐 Portofolio: lagi proses
 
 ---
 
