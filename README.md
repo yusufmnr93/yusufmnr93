@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/main/header.svg" alt="Yusuf - Flutter dan AI" width="100%"/>
+  <img src="./header.svg" alt="Yusuf - Flutter dan AI" width="100%"/>
 </div>
 
 Mahasiswa **Teknik Informatika** di **UIN Maulana Malik Ibrahim Malang** yang suka membangun aplikasi mobile dan bereksperimen dengan AI. Aku belajar dengan cara membuat sesuatu yang benar-benar bisa dipakai, bukan cuma tugas yang dikumpulkan lalu dilupakan.
@@ -37,20 +37,12 @@ Mahasiswa **Teknik Informatika** di **UIN Maulana Malik Ibrahim Malang** yang su
 - Commit kecil dan sering, dengan pesan yang jelas
 - Setiap proyek punya README, screenshot, dan cara menjalankannya
 
-## 🐍 Grafik kontribusi
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake.svg" />
-  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake.svg" />
-</picture>
-
 ## 📫 Mari terhubung
 
 - 💼 LinkedIn: [isi linkmu]
 - ✉️ Email: [isi emailmu]
 - 🌐 Portofolio: [isi kalau ada]
 
----
-
-<sub>Masih belajar, masih membangun, dan masih bertumbuh. Terima kasih sudah mampir! ☕</sub>
+<div align="center">
+  <img src="./footer.svg" alt="Terima kasih sudah mampir" width="100%"/>
+</div>
