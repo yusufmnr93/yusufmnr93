@@ -1,8 +1,10 @@
-# Hai, aku Yusuf 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/main/header.svg" alt="Yusuf - Flutter dan AI" width="100%"/>
+</div>
 
-**Mahasiswa Teknik Informatika di UIN Maulana Malik Ibrahim Malang** yang suka membangun aplikasi mobile dan bereksperimen dengan AI. Aku belajar dengan cara membuat sesuatu yang benar-benar bisa dipakai, bukan cuma tugas yang dikumpulkan lalu dilupakan.
+Mahasiswa **Teknik Informatika** di **UIN Maulana Malik Ibrahim Malang** yang suka membangun aplikasi mobile dan bereksperimen dengan AI. Aku belajar dengan cara membuat sesuatu yang benar-benar bisa dipakai, bukan cuma tugas yang dikumpulkan lalu dilupakan.
 
-📍 Malang, Indonesia  ·  🎯 Lagi suka: Ngoding 
+📍 Malang, Indonesia  ·  🎯 Lagi cari: [magang / proyek freelance / teman kolaborasi]
 
 ---
 
@@ -35,11 +37,19 @@
 - Commit kecil dan sering, dengan pesan yang jelas
 - Setiap proyek punya README, screenshot, dan cara menjalankannya
 
+## 🐍 Grafik kontribusi
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/yusufmnr93/yusufmnr93/output/github-snake.svg" />
+</picture>
+
 ## 📫 Mari terhubung
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yusuf-maulana-nur-rasidi-407b992aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
-- ✉️ Email: yusufmaulanaoke0903@gmail.com
-- 🌐 Portofolio: lagi proses
+- 💼 LinkedIn: [isi linkmu]
+- ✉️ Email: [isi emailmu]
+- 🌐 Portofolio: [isi kalau ada]
 
 ---
 
