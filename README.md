@@ -4,7 +4,7 @@
 
 Mahasiswa **Teknik Informatika** di **UIN Maulana Malik Ibrahim Malang** yang suka membangun aplikasi mobile dan bereksperimen dengan AI. Aku belajar dengan cara membuat sesuatu yang benar-benar bisa dipakai, bukan cuma tugas yang dikumpulkan lalu dilupakan.
 
-📍 Malang, Indonesia  ·  🎯 Lagi cari: [magang / proyek freelance / teman kolaborasi]
+📍 Malang, Indonesia  ·  🎯 Lagi suka: coding
 
 ---
 
@@ -39,9 +39,9 @@ Mahasiswa **Teknik Informatika** di **UIN Maulana Malik Ibrahim Malang** yang su
 
 ## 📫 Mari terhubung
 
-- 💼 LinkedIn: [isi linkmu]
-- ✉️ Email: [isi emailmu]
-- 🌐 Portofolio: [isi kalau ada]
+- 💼 LinkedIn: [Yusuf Maulana Nur Rasidi](https://www.linkedin.com/in/yusuf-maulana-nur-rasidi-407b992aa)
+- ✉️ Email: [yusufmaulanaoke0903@gmail.com](mailto:yusufmaulanaoke0903@gmail.com)
+- 🌐 Portofolio: sedang dalam proses
 
 <div align="center">
   <img src="./footer.svg" alt="Terima kasih sudah mampir" width="100%"/>
